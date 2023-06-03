@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">A passionate Sofrfrom India</h3>
+<h3 align="center">A passionate Software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekrishpatel&label=Profile%20views&color=0e75b6&style=flat" alt="thekrishpatel" /> </p>
 
 - 🎓 I'm currently studying **Information technology(B.tech)at L.J Institute of Engineering and Technology, Ahmedabad.**
 
+- 🌱 I’m currently learning **DSA With java**
+
 - 💡 Some technologies I enjoy working with include **JAVA, DBMS.**
+
+- 📫 How to reach me **krishpatel8071@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
