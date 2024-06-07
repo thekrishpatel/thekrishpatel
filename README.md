@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently studying Information technology(B.tech)at L.J Institute of Engineering and Technology, Ahmedabad.<br><br>🌱 I’m currently learning DSA With java<br><br>💡 Some technologies I enjoy working with include JAVA, DBMS.<br><br>📫 How to reach me krishpatel8071@gmail.com
+🎓 I'm currently studying Information technology(B.tech)at L.J Institute of Engineering and Technology, Ahmedabad.<br><br>🌱 I’m currently learning DSA With java<br><br>💡 Some technologies I enjoy working with include JAVA, Python, HTML, CSS, JS, Bootstrap, Tailwind, DBMS.<br><br>📫 How to reach me krishpatel8071@gmail.com
 
 
 ## 🌐 Socials:
